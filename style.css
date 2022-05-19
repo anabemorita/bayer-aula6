@@ -1,0 +1,25 @@
+nav {
+    align-items: center;
+    background-color: rgb(220, 28, 28);
+    display: flex;
+    height: 60px;
+    justify-content: space-evenly;
+}
+
+nav img {
+    height: 50px;
+}
+
+nav a {
+    color: white;
+    font-size: 18pt;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+body {
+    margin: 0;
+    /* margin: 50px 100px; primeiro valor é em cima e embaixo o segundo para os lados
+    margin: 50px 100px 200px;  primeiro valor é em cima, o segundo para os lados e o último para baixo
+    margin: 50px 100px 200px 400px; primeiro valor é em cima, o segundo para a direita, o terceiro para baixo e o último para esquerda */
+}
